@@ -5,8 +5,8 @@ ICD-11 Coder is a batch CLI that proposes up to three ranked ICD-11 MMS codes pe
 ## Quick start
 
 ```sh
-git clone https://github.com/anc1en7/icd11-coder-standalone.git
-cd icd11-coder-standalone
+git clone https://github.com/anc1en7/icd11-coder.git
+cd icd11-coder
 python -m coder examples/notes.jsonl out/example.jsonl
 ```
 
