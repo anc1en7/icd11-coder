@@ -1,0 +1,12 @@
+**
+!Dockerfile
+!requirements-models.txt
+!coder/
+!coder/*.py
+!data/
+!data/shorthand.json
+!data/who/
+!data/who/codes.jsonl.gz
+!data/who/NOTICE.md
+!examples/
+!examples/notes.jsonl

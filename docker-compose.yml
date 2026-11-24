@@ -1,0 +1,19 @@
+services:
+  coder:
+    build: .
+    volumes:
+      - ./in:/in:ro
+      - ./out:/out
+    environment:
+      - OPENAI_API_KEY
+      - ANTHROPIC_API_KEY
+      - HTTPS_PROXY
+      - https_proxy
+      - NO_PROXY
+      - no_proxy
+      - CODER_READ_MODEL
+      - CODER_RANK_MODEL
+      - CODER_RANK_EFFORT
+      - CODER_MAX_USD
+      - CODER_MAX_MINUTES
+      - CODER_CALL_TIMEOUT

@@ -1,0 +1,32 @@
+{
+ "release": "2026-01",
+ "codes": 18375,
+ "leaf_codes": 15912,
+ "fields": {
+  "code": 18375,
+  "title": 18375,
+  "uri": 18375,
+  "chapter": 18375,
+  "leaf": 18375,
+  "residual": 18375,
+  "depth": 18375,
+  "parent": 18375,
+  "parent_code": 18375,
+  "i18n": 18375,
+  "terms": 11379,
+  "definition": 6561,
+  "exclusions": 2229,
+  "inclusions": 1114,
+  "note": 855
+ },
+ "titles_differing_from_english": {
+  "ar": 18375,
+  "es": 18256,
+  "fr": 18302,
+  "pt": 18294,
+  "ru": 18374,
+  "zh": 18374,
+  "de": 18161
+ },
+ "bytes": 3284289
+}

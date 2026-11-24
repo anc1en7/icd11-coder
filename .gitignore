@@ -1,0 +1,17 @@
+# macOS metadata
+._*
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets and local output
+.env
+out/
+
+# Raw extracts and scratch data
+work/
+in/
+.ua/
